@@ -1,0 +1,13 @@
+<dependencies>
+<dependency>
+  <groupfactId>com.codeborne</groupId>
+  <artifactId>phantomjsdriver</artifactId>
+  <version>Version</version>
+</dependency>
+<dependency>
+  <groupfactId>org.seleniumhq.selenium</groupId>
+  <artifactId>selenium-remote-driver</artifactId>
+  <version>Version</version>
+</dependency>
+</dependencies>
+

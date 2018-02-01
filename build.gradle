@@ -1,0 +1,4 @@
+dependencies{
+  compile 'com.github.detroLphantomjsdriver:CURRENT_VERSION'
+}
+
